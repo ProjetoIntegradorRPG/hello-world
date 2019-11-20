@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"Defesa +5","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Escudo","note":"","params":[0,0,0,5,0,0,0,0],"price":100},
+{"id":2,"atypeId":1,"description":"Defesa +10","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Chapéu","note":"","params":[0,0,0,10,0,0,0,0],"price":100},
+{"id":3,"atypeId":1,"description":"Defesa + 15","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Roupas","note":"","params":[0,0,0,15,0,0,0,0],"price":125},
+{"id":4,"atypeId":1,"description":"Ataque M. +10","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anel","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":5,"atypeId":2,"description":"Ataque +5 Ataque M. +110 Sorte -1 \nMP -50 HP -100","etypeId":4,"traits":[{"code":22,"dataId":5,"value":0.05}],"iconIndex":139,"name":"Manto do Fanático","note":"","params":[-100,-50,5,0,95,0,0,-5],"price":650},
+{"id":6,"atypeId":4,"description":"Defesa +25 Defesa M +10","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Elmo","note":"","params":[0,0,0,25,0,10,0,0],"price":425},
+{"id":7,"atypeId":6,"description":"Defesa +15 Defesa M. +5","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Escudo Grande","note":"","params":[0,0,0,15,0,5,0,0],"price":400},
+{"id":8,"atypeId":2,"description":"Defesa +5 Ataque M. +20 Defesa M. +10\nAgilidade +5 MP +200","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":138,"name":"Manto do Arcmago","note":"","params":[0,200,0,5,20,10,5,0],"price":700},
+{"id":9,"atypeId":2,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"Manto do Espírito Obscuro","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":10,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
