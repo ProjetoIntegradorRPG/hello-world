@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":1,"equips":[1,1,2,3,0],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aventureiro(a)","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"henryLuta","characterIndex":0,"characterName":"HenryPaladino","classId":11,"equips":[1,7,6,3,0],"faceIndex":0,"faceName":"HenryPaladino","traits":[],"initialLevel":1,"maxLevel":99,"name":"Henry","nickname":"Paladino","note":"","profile":""},
+{"id":3,"battlerName":"Fio","characterIndex":0,"characterName":"Fio","classId":8,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Fio","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fio","nickname":"Necromante","note":"","profile":""},
+{"id":4,"battlerName":"Garon","characterIndex":0,"characterName":"Garon","classId":2,"equips":[7,0,6,3,0],"faceIndex":0,"faceName":"Garon","traits":[],"initialLevel":1,"maxLevel":99,"name":"Garon","nickname":"Cavaleiro Arcano","note":"","profile":""},
+{"id":5,"battlerName":"Pray","characterIndex":0,"characterName":"Pray","classId":17,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Pray","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pray","nickname":"Geomancer","note":"","profile":""},
+{"id":6,"battlerName":"zac","characterIndex":0,"characterName":"Zac","classId":12,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Zac","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zac","nickname":"Electromancer","note":"","profile":""},
+{"id":7,"battlerName":"Inara","characterIndex":0,"characterName":"Inara","classId":15,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Inara","traits":[],"initialLevel":1,"maxLevel":99,"name":"Inara","nickname":"Anemancer","note":"","profile":""},
+{"id":8,"battlerName":"Ishtar","characterIndex":0,"characterName":"Ishtar","classId":18,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Ishtar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ishtar","nickname":"Criomante","note":"","profile":""},
+{"id":9,"battlerName":"Stan","characterIndex":0,"characterName":"Stan","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Stan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stan","nickname":"Pyromancer","note":"","profile":""},
+{"id":10,"battlerName":"Marry","characterIndex":0,"characterName":"Marry","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Marry","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marry","nickname":"Clériga","note":"","profile":""},
+{"id":11,"battlerName":"Megum","characterIndex":0,"characterName":"Megum","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Megum","traits":[],"initialLevel":1,"maxLevel":99,"name":"Megum","nickname":"Maga Explosiva","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
